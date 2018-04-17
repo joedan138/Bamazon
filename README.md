@@ -8,12 +8,12 @@ There are 3 different user types in this app.
 *Supervise View
 Each user has access to different levels of data within the single database. 
 
-## Customer View
+### Customer View
 
 
-## Manager View
+### Manager View
 
 
-## Supervisor View
+### Supervisor View
 
 **Jordan Hernandez APR 2018**
